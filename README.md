@@ -1,5 +1,8 @@
-
-##File Structure
+Command are
+```git clone https://github.com/saurabharch/push-rest```
+```npm install```
+```node server.js```
+>File Structure
 ```
 |
 |
@@ -37,3 +40,4 @@
 |___________________________server.js
 
 ```
+
