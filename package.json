@@ -1,0 +1,19 @@
+{
+    "name": "web-push-services",
+    "version": "1.0.0",
+    "description": "Web Push Notification Full Stack Application With Node Js Restful API",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Saurabh Kashyap",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.15.4",
+        "mongoose": "^4.13.12",
+        "q": "^1.5.1",
+        "web-push": "^3.3.2"
+    }
+}
