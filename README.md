@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsaurabharch%2Fpush-rest.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsaurabharch%2Fpush-rest?ref=badge_shield)
+
 Command are
 ```git clone https://github.com/saurabharch/push-rest```
 ```npm install```
@@ -41,3 +43,7 @@ Command are
 
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsaurabharch%2Fpush-rest.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsaurabharch%2Fpush-rest?ref=badge_large)
